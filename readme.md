@@ -170,7 +170,6 @@ Aşağıdaki loglar kritik:
 ## Lisans
 
 Öneri: MIT License  
-(Repo’ya `LICENSE` dosyası ekleyin.)
 
 ---
 
